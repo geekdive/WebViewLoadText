@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebViewLoadText</string>
+
+    <string name="kontent_1">
+        Kontent 1:
+        UTF-8. UTF-8 (Universal Character Set (UCS) Transformation Format — 8-bit)
+        adalah sebuah pengkodean karakter dengan lebar variabel tertentu (variable-width
+        encoding) yang mewakili setiap karakter komputer (character) dalam himpunan
+        karakter Unicode.
+    </string>
+
+</resources>
